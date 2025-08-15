@@ -13,7 +13,9 @@
     git remote -v
     ```
 
-2.  Install stuff
+    Note: you need python 3.10.6
+
+2.  Install stuff (Optional if you didn't encounter any errors)
 
     [Install Pytorch for Nvidia Blackwell 50XX GPU (method 2)](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/16824)
 
